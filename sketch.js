@@ -6,7 +6,7 @@ const Constraint = Matter.Constraint;
 var engine, world;
 var polygon,polygonimg;
 
-function preLoad(){
+function preload(){
   polygonimg=loadImage("polygon.png")
 }
 
